@@ -38,7 +38,7 @@ crear3.innerHTML =`
                 <img src="images/vista-lateral-personas-gafas-vr_23-2150603813.jpg" class="d-block w-100" alt="...">
             </div>
             <div class="carousel-item">
-                <img src="images/collage-entrenamiento-inmersivo_23-2150675737.jpg" class="d-block w-100" alt="...">
+                <img src="../proyecto-minverse/images/collage-entrenamiento-inmersivo_23-2150675737.jpg" class="d-block w-100" alt="...">
             </div>
         </div>
          <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
